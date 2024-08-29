@@ -3,6 +3,7 @@
 Videos
 -------------
 [![](https://img.shields.io/badge/eBoard-AVR,PART_A-yellow)](https://youtu.be/-ttv7IQRaWA)
+[![](https://img.shields.io/badge/eBoard-AVR,PART_B-yellow)](https://youtu.be/Ipy6SqzdZnI)
 
 Contact Us
 -------------
